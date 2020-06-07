@@ -11,7 +11,7 @@ This would not be possible without the [Pan Docs](https://gbdev.io/pandocs), [iz
 
 ## Installation
 
-[SDL2](https://www.libsdl.org/) is a requirement for this project. Install that in whichever way you see fit.
+Please install [SDL2](https://www.libsdl.org/) for this project, as it is a requirement. 
 
 After cloning the respository, you can install the required shards with `shards install`. If you don't do this directly, they'll be installed when you build the project.
 
